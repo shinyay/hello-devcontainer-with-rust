@@ -4,6 +4,7 @@
 	"name": "Playground - Rust",
 	"dockerComposeFile": "compose.yaml",
 	"service": "playground-rust",
+	"workspaceFolder": "/workspace",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	// "image": "mcr.microsoft.com/devcontainers/rust:1-1-bullseye",
 	"features": {
