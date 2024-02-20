@@ -1,5 +1,5 @@
 services:
-  playground:
+  playground-rust:
     container_name: 'rust'
     hostname: 'rust'
     build:
