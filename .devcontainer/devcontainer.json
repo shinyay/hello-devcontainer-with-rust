@@ -33,7 +33,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"EditorConfig.EditorConfig"
+				"EditorConfig.EditorConfig",
+				"rust-lang.rust-analyzer"
 			]
 		}
 	},
