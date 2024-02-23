@@ -1,7 +1,5 @@
 # Getting started with Dev Container for Rust
 
-- [Dev Container](https://code.visualstudio.com/docs/devcontainers/create-dev-container)
-
 ## Description
 
 ## Demo
@@ -26,6 +24,9 @@ cargo run
 ## Installation
 
 ## References
+
+- [Dev Container](https://code.visualstudio.com/docs/devcontainers/create-dev-container)
+- [Rust in Visual Studio Code](https://code.visualstudio.com/docs/languages/rust)
 
 ## Licence
 
