@@ -1,6 +1,6 @@
 # Getting started with Dev Container for Rust
 
-Overview
+- [Dev Container](https://code.visualstudio.com/docs/devcontainers/create-dev-container)
 
 ## Description
 
