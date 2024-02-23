@@ -10,6 +10,10 @@
 cargo init
 ```
 
+```shell
+cargo run
+```
+
 ## Features
 
 - feature:1
