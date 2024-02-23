@@ -6,6 +6,10 @@
 
 ## Demo
 
+```shell
+cargo init
+```
+
 ## Features
 
 - feature:1
